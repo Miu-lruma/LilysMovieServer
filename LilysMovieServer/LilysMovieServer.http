@@ -1,0 +1,6 @@
+@LilysMovieServer_HostAddress = http://localhost:5194
+
+GET {{LilysMovieServer_HostAddress}}/moviefun/
+Accept: application/json
+
+###
